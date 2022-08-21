@@ -1,5 +1,5 @@
 if(window.location.href.startsWith("https://www.youtube.com/")){ 
-    if ( 창 . 위치 . replace ( "https://quema100.github.io/block-site/") ){
+    if ( window.location . replace ( "https://quema100.github.io/block-site/") ){
       Window.histoy.back(false)
     }   
 }
