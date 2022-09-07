@@ -1,7 +1,10 @@
 if(window.location.href.startsWith("https://www.youtube.com/")){ 
-    if ( window.location . replace ( "https://quema100.github.io/block-site/") ){
-      Window.histoy.back(false)
-    }   
-}
+  var 경고 = confirm("응답이 없습니다")
+  if (경고){
+    window.history.back()
+  } else{
+    window.history.back()
+  }
 
+}
     
