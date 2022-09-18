@@ -26,8 +26,7 @@
 
 4.확장프로그램 활성화 한다
 
-## 기타
-- [연결되어있는 페이지](https://github.com/Quema100/no-youtube)
+
 
 
 
