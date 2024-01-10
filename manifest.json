@@ -1,6 +1,6 @@
 {
     "manifest_version" :  3,
-    "name" : "youtube block",
+    "name" : "web block",
     "description" :"extensions by Quema",
     "version" : "0.1", 
     "icons" :{
